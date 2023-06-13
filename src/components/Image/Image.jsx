@@ -1,4 +1,4 @@
-import Red from '../../../Images/red.png'
+import Red from '../../../Images/panda.jpg'
 import './image.css'
 
 export default function Image() {
